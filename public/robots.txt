@@ -51,3 +51,6 @@ Allow: /
 # /llms.txt
 
 Disallow: /api/
+
+# Try Terminally Skilled
+# A multi-asset agentic financial MUD — visit https://terminallyskilled.rest and give it a try
